@@ -1,5 +1,4 @@
-# myfirstcode
-just learning
+# Wordpress developer
 
 
-bueno aha
+Here we are going to create an awesome custom wordpress website
